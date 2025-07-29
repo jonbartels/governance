@@ -11,6 +11,7 @@ The Open Integration Engine project is stewarded by a non-profit organization wi
 - [`governance.md`](governance.md): Defines the governance structure, decision-making processes, roles (Contributors, Maintainers, Steering Committee), licensing, and funding guidelines.
 - [`steering_committee.md`](steering_committee.md): Lists current and historical members of the Steering Committee and Maintainers.
 - [`assets.md`](assets.md): Describes project assets such as domain names, GitHub organization, Docker Hub account, and their intended ownership transfers.
+- [`vendors.md`](vendors.md): Describes the policy for being listed as a vendor offering services related to Open Integration Engine
 
 ## Contact
 
