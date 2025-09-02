@@ -1,7 +1,9 @@
-# Steering Committee
+# Maintainers
 
-## Current Steering Committee Members As of 31st of March 2025
+## Current Maintainers As of 15th of September 2025
 
+- [Mitch Gaffigan](https://github.com/mgaffigan)
+- [Nico Piel](https://github.com/nicopiel)
 - [Chris Gibson](https://github.com/gibson9583)
 - [Jonathan Bartels](https://github.com/jonbartels/)
 - [Kaur Palang](https://github.com/kpalang/)
@@ -14,10 +16,9 @@
 
 ## Historical compositions
 
-### Steering Committee As of 26th of March 2025
+### Maintainers As of 26th of March 2025
 
 - Jonathan Bartels
 - Kaur Palang
 - Paul Coyne
 - Tony Germano
-
