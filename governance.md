@@ -40,6 +40,8 @@ Selection and Removal:
 - New Maintainers are nominated by existing Maintainers and must be approved by consensus.
 - A Maintainer may be removed for inactivity, misconduct, or loss of trust by a two-thirds Maintainer vote.
 
+The current and historical list of Maintainers can be found in the [`maintainers.md`](./maintainers.md) file.
+
 ### 4.3 Steering Committee
 
 The Steering Committee oversees project governance, handles escalated decisions, and maintains legal and organizational alignment.
@@ -54,6 +56,8 @@ Composition and Terms:
 - Composed of 5–9 individuals including Maintainers and active Contributors.
 - Members serve 1-year renewable terms.
 - Elections are held annually via Contributor vote.
+
+The current and historical list of Steering Committee members can be found in the [`steering_committee.md`](./steering_committee.md) file.
 
 ## 5. Decision-Making
 
