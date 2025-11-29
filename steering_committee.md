@@ -1,10 +1,9 @@
 # Steering Committee
 
-## Current Steering Committee Members As of 31st of March 2025
+## Current Steering Committee Members As of 21st of November 2025
 
 - [Chris Gibson](https://github.com/gibson9583)
 - [Jonathan Bartels](https://github.com/jonbartels/)
-- [Kaur Palang](https://github.com/kpalang/)
 - [Kiran Ayyagari](https://github.com/kayyagari)
 - [Paul Coyne](https://github.com/pacmano1)
 - [Sean Rowe](https://github.com/ssrowe)
@@ -13,6 +12,16 @@
 ---
 
 ## Historical compositions
+
+### Steering Committee As of 31st of March 2025
+
+- [Chris Gibson](https://github.com/gibson9583)
+- [Jonathan Bartels](https://github.com/jonbartels/)
+- [Kaur Palang](https://github.com/kpalang/)
+- [Kiran Ayyagari](https://github.com/kayyagari)
+- [Paul Coyne](https://github.com/pacmano1)
+- [Sean Rowe](https://github.com/ssrowe)
+- [Tony Germano](https://github.com/tonygermano)
 
 ### Steering Committee As of 26th of March 2025
 
